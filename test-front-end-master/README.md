@@ -27,7 +27,7 @@ Es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`
 ¿Crees que se requieran cambios en la maqueta? ¿Cuáles?
 **Opcional:** agregar share buttons y etiquetas para redes sociales (hint: [http://ogp.me](http://ogp.me)).
 
-6. **Advanced CSS:** Puede usar frameworks a elección para escribir CSS teniendo en cuenta la compatibilidad con distintos browsers, importante usar un pre-procesador como sass, less o stylus. (hint opcional: Usar [BrowserStack](http://www.browserstack.com/) para chequear el renderizado en distintos navegadores).
+6. **Advanced CSS:**  Usar frameworks a elección para escribir CSS teniendo en cuenta la compatibilidad con distintos browsers, importante usar un pre-procesador como sass, less o stylus. (hint opcional: Usar [BrowserStack](http://www.browserstack.com/) para chequear el renderizado en distintos navegadores).
 
 7. **Habilidades UX**: ¿Cómo mejorarías el diseño? ¿para tener una mejor conversión de nuestros usuarios que cambiarías en el diseño? ¿Qúe buenas prácticas de experiencia de usuario tendrías en cuenta para este desarrollo?
 
