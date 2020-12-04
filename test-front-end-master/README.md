@@ -31,7 +31,7 @@ Es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`
 
 7. **Habilidades UX**: ¿Cómo mejorarías el diseño? ¿para tener una mejor conversión de nuestros usuarios que cambiarías en el diseño? ¿Qúe buenas prácticas de experiencia de usuario tendrías en cuenta para este desarrollo?
 
-8. **Para finalizar la tarea se requiere crear un archivo Zip con los archivos necesarios y enviar por correo a las direcciones incluidas, plus, subirlo a un servidor y dejar la URL del sitio**
+8. **Para finalizar la tarea se requiere crear un archivo Zip con los archivos fuente y enviar por correo a las direcciones incluidas, además importante subirlo a un servidor y dejar la URL del sitio, sin esto no se podrá calificar**
 
 **Forma de evaluar:**
 Se calificará cada punto de 1 a 5, las mejores pruebas serán tenidas en cuenta para seguir con el proceso.
